@@ -24,7 +24,7 @@ def take_input(player_token):
             board[player_answer-1] = player_token
             valid = True
          else:
-            print("(ᵔ.ᵔ) This spot is already taken, chose another one (ᵔ.ᵔ)")
+            print("(ᵔ.ᵔ) This spot is already taken, choose another one (ᵔ.ᵔ)")
       else:
         print("(─‿‿─)Insert number from 1 to 9(─‿‿─)")
 
